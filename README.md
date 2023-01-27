@@ -4,7 +4,7 @@
 - 📫 How to reach me:
 - maxsimmer@gmail.com
 - msimmer@luc.edu
--- website: https://maximilliansimmer.com/
+###website: https://maximilliansimmer.com/
 
 <!---
 maxSimmer/maxSimmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
