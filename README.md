@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @maxSimmer
 - 👀 I’m interested in computer science, trading/finance, and skateboarding!
-- 🌱 I’m currently learning data structures in java and studying full-stack engineering on the side.
-- 📫 How to reach me:
-- maxsimmer@gmail.com
-- msimmer@luc.edu
-- website: https://maximilliansimmer.com/
+- 🌱 I’m currently learning 
 
 <!---
 maxSimmer/maxSimmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
